@@ -1,0 +1,8 @@
+{
+  "name": "icepab-digitals-portfolio",
+  "version": 1,
+  "public": true,
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "framework": null
+}
